@@ -1,5 +1,5 @@
 <?php
-
+ 
 if( isset( $_SESSION [ 'id' ] ) ) {
 	// Get input
 	$id = $_SESSION[ 'id' ];
